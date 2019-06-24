@@ -1,0 +1,189 @@
+{
+  "TechList": [
+    {
+      "id": "1",
+      "heading": "Reactjs",
+      "Url": "https://hdwallpaperim.com/wp-content/uploads/2017/08/25/461264-reactJS-Facebook-JavaScript-minimalism-artwork-simple_background-748x421.jpg"
+    },
+    {
+      "id": "2",
+      "heading": "AngularJs",
+      "Url": "https://cdn-images-1.medium.com/max/2600/1*QstcanLitCZg7fn81h9FQA.png"
+    },
+    {
+      "id": "3",
+      "heading": "Vue Js",
+      "Url": "https://res.cloudinary.com/practicaldev/image/fetch/s--2hpllPub--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/http://timrijkse.nl/images/vue-full-guide.png"
+    }
+  ],
+  "Questionlist": [
+    {
+      "id": "10",
+      "TechListId": "1",
+      "Quesiontitle": "why react props are passed undefined?",
+      "Summary": "I have get some data from db , when I console log them it works nice. and also when I stringfy the passed props are OK and displayed on the screen as they are expected. import axios from 'axios' ..."
+    },
+    {
+      "id": "11",
+      "TechListId": "1",
+      "Quesiontitle": "bootstrap dropdown.item onClick/onSelect event doesnt work",
+      "Summary": "Test"
+    },
+    {
+      "id": "12",
+      "TechListId": "1",
+      "Quesiontitle": "How can I substract hours from my date using data from a string?",
+      "Summary": "I have a date in UTC in javascript, and I would like to substract some hours. I searched online and apparently I should concat the substraction to the date like the following: const diff = '-5'"
+    },
+    {
+      "id": "13",
+      "TechListId": "2",
+      "Quesiontitle": "In real time when we will use AOT and JIT",
+      "Summary": "I have gone through the definition AOT and JIT, but did not get, In real time under which circumstances we will use each of the method."
+    },
+    {
+      "id": "14",
+      "TechListId": "2",
+      "Quesiontitle": "angular service.component error TS2339: Property 'subscribe' does not exist on type 'Promise",
+      "Summary": "I'm trying to learn angular by creating a web application for the parish. in the products-list.component.ts I have the method for deleting which seems to be formally correct, but in the phase of npm"
+    },
+    {
+      "id": "15",
+      "TechListId": "3",
+      "Quesiontitle": "How to loop through an array and add a property to all objects in vue.js",
+      "Summary": "In Vue.js, in order to add a property/array item to something already in the virtual DOM, you have to use the $set function. Here's are the wrong ways: Object: this.myObject.newProperty"
+    },
+    {
+      "id": "16",
+      "TechListId": "3",
+      "Quesiontitle": "Prevent submission form Data when enter on search",
+      "Summary": "I have form.inside this form component I have a search box.i created two methods one is for search other one is for submit data. every time I enter on search both methods are fires."
+    },
+    {
+      "TechListId": "1",
+      "Quesiontitle": "caasd",
+      "Summary": "asdasd",
+      "id": "13"
+    },
+    {
+      "TechListId": "1",
+      "Quesiontitle": "asdasd",
+      "Summary": "jj",
+      "id": "MbhvxYy"
+    }
+  ],
+  "Usercomment": [
+    {
+      "id": "20",
+      "QuestionlistId": "10",
+      "username": "Sachin",
+      "timestamp": "12/05/2019",
+      "comment": "check Stack over flow"
+    },
+    {
+      "id": "21",
+      "QuestionlistId": "10",
+      "username": "asds",
+      "timestamp": "12/05/2019",
+      "comment": "check Stack over flow"
+    },
+    {
+      "id": "22",
+      "QuestionlistId": "11",
+      "username": "asd",
+      "timestamp": "12/05/2019",
+      "comment": "check Stack over flow"
+    },
+    {
+      "id": "23",
+      "QuestionlistId": "12",
+      "username": "asda",
+      "timestamp": "12/05/2019",
+      "comment": "check Stack over flow"
+    },
+    {
+      "id": "24",
+      "QuestionlistId": "13",
+      "username": "Sachin",
+      "timestamp": "12/05/2019",
+      "comment": "check Stack over flow"
+    },
+    {
+      "id": "25",
+      "QuestionlistId": "14",
+      "username": "cccc",
+      "timestamp": "12/05/2019",
+      "comment": "check Stack over flow"
+    },
+    {
+      "id": "26",
+      "QuestionlistId": "15",
+      "username": "lll",
+      "timestamp": "12/05/2019",
+      "comment": "check Stack over flow"
+    },
+    {
+      "id": "26",
+      "QuestionlistId": "16",
+      "username": "lll",
+      "timestamp": "12/05/2019",
+      "comment": "check Stack over flow"
+    },
+    {
+      "QuestionlistId": "16",
+      "username": "hello",
+      "timestamp": "12/05/2019",
+      "comment": "check Stack over flow",
+      "id": "jG3tpYE"
+    },
+    {
+      "QuestionlistId": "16",
+      "username": "Banta",
+      "timestamp": "6/19/2019, 12:12:20 AM",
+      "comment": "bantu",
+      "id": "xd-NxCG"
+    },
+    {
+      "QuestionlistId": "16",
+      "username": "aksdjskadjk",
+      "timestamp": "6/19/2019, 12:13:18 AM",
+      "comment": "jasdas",
+      "id": "IbXMFDm"
+    },
+    {
+      "QuestionlistId": "16",
+      "username": "aksdjskadjk",
+      "timestamp": "6/19/2019, 12:13:18 AM",
+      "comment": "jasdas",
+      "id": "pPnWCyq"
+    },
+    {
+      "QuestionlistId": "16",
+      "username": "aksdjskadjk",
+      "timestamp": "6/19/2019, 12:13:18 AM",
+      "comment": "jasdas",
+      "id": "31B29qD"
+    },
+    {
+      "QuestionlistId": "13",
+      "username": "asdsad",
+      "timestamp": "6/19/2019, 12:14:14 AM",
+      "comment": "nasdsad",
+      "id": "AMPNTSB"
+    },
+    {
+      "QuestionlistId": "10",
+      "username": "Juan",
+      "timestamp": "6/19/2019, 12:14:37 AM",
+      "comment": "Working ?",
+      "id": "ztJu-qu"
+    },
+    {
+      "QuestionlistId": "10",
+      "username": "sdsa",
+      "timestamp": "6/19/2019, 12:18:26 AM",
+      "comment": "sadasd",
+      "id": "KtuGEnU"
+    }
+  ]
+}
