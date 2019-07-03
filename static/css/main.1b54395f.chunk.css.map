@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,sBACI,YACJ,CACA,gCACI,YACJ","file":"main.1b54395f.chunk.css","sourcesContent":[".card .card-image img{\r\n    height: 11rem;\r\n}\r\n.CustomCard .card .card-content{\r\n    height: 200px;\r\n}"]}
