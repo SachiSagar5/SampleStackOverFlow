@@ -10,13 +10,13 @@
       "id": "2",
       "heading": "AngularJs",
       "Url": "https://cdn-images-1.medium.com/max/2600/1*QstcanLitCZg7fn81h9FQA.png",
-       "Description":"ReactJS - Overview. React is a library for building composable user interfaces. It encourages the creation of reusable UI components, which present data that changes over time. Lots of people use React as the V in MVC."
+       "Description":"Angular is a platform and framework for building client applications in HTML and TypeScript. Angular is written in TypeScript. ... Components define views, which are sets of screen elements that Angular can choose among and modify according to your program logic and data."
     },
     {
       "id": "3",
       "heading": "Vue Js",
       "Url": "https://res.cloudinary.com/practicaldev/image/fetch/s--2hpllPub--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/http://timrijkse.nl/images/vue-full-guide.png",
-       "Description":"ReactJS - Overview. React is a library for building composable user interfaces. It encourages the creation of reusable UI components, which present data that changes over time. Lots of people use React as the V in MVC."
+       "Description":"Vue.js (pronounced /vjuː/, like view) is a library for building interactive web interfaces. The goal of Vue.js is to provide the benefits of reactive data binding and composable view components with an API that is as simple as possible"
     }
   ],
   "Questionlist": [
