@@ -4,19 +4,19 @@
       "id": "1",
       "heading": "Reactjs",
       "Url": "https://hdwallpaperim.com/wp-content/uploads/2017/08/25/461264-reactJS-Facebook-JavaScript-minimalism-artwork-simple_background-748x421.jpg",
-      "Description": "ReactJS - Overview. React is a library for building composable user interfaces. It encourages the creation of reusable UI components, which present data that changes over time. Lots of people use React as the V in MVC."
+      "Description":"ReactJS - Overview. React is a library for building composable user interfaces. It encourages the creation of reusable UI components, which present data that changes over time. Lots of people use React as the V in MVC."
     },
     {
       "id": "2",
       "heading": "AngularJs",
       "Url": "https://cdn-images-1.medium.com/max/2600/1*QstcanLitCZg7fn81h9FQA.png",
-      "Description": "Angular is a platform and framework for building client applications in HTML and TypeScript. Angular is written in TypeScript. ... Components define views, which are sets of screen elements that Angular can choose among and modify according to your program logic and data."
+       "Description":"Angular is a platform and framework for building client applications in HTML and TypeScript. Angular is written in TypeScript. ... Components define views, which are sets of screen elements that Angular can choose among and modify according to your program logic and data."
     },
     {
       "id": "3",
       "heading": "Vue Js",
       "Url": "https://res.cloudinary.com/practicaldev/image/fetch/s--2hpllPub--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/http://timrijkse.nl/images/vue-full-guide.png",
-      "Description": "Vue.js (pronounced /vjuː/, like view) is a library for building interactive web interfaces. The goal of Vue.js is to provide the benefits of reactive data binding and composable view components with an API that is as simple as possible"
+       "Description":"Vue.js (pronounced /vjuː/, like view) is a library for building interactive web interfaces. The goal of Vue.js is to provide the benefits of reactive data binding and composable view components with an API that is as simple as possible"
     }
   ],
   "Questionlist": [
@@ -64,81 +64,15 @@
     },
     {
       "TechListId": "1",
-      "Quesiontitle": "asd",
-      "Summary": "asd",
-      "id": "n7ydQoH"
+      "Quesiontitle": "caasd",
+      "Summary": "asdasd",
+      "id": "13"
     },
     {
       "TechListId": "1",
-      "Quesiontitle": "sdfsdfs",
-      "Summary": "sdfds",
-      "id": "Oo_66ho"
-    },
-    {
-      "TechListId": "1",
-      "Quesiontitle": "What is state?",
-      "Summary": "how to use ",
-      "id": "eov1YI4"
-    },
-    {
-      "TechListId": "2",
-      "Quesiontitle": "",
-      "Summary": "",
-      "id": "JsaWUGJ"
-    },
-    {
-      "TechListId": "1",
-      "Quesiontitle": "sf",
-      "Summary": "sdfd",
-      "id": "CIRFl_2"
-    },
-    {
-      "TechListId": "1",
-      "Quesiontitle": "ad",
-      "Summary": "asd",
-      "id": "SBmYz97"
-    },
-    {
-      "TechListId": "3",
-      "Quesiontitle": "How to call vue function",
-      "Summary": "Functions",
-      "id": "0tijBT6"
-    },
-    {
-      "TechListId": "3",
-      "Quesiontitle": "Demo",
-      "Summary": "Demo",
-      "id": "fYCc8Vi"
-    },
-    {
-      "TechListId": "1",
-      "Quesiontitle": "as",
-      "Summary": "asdad",
-      "id": "rcHr5zt"
-    },
-    {
-      "TechListId": "1",
-      "Quesiontitle": "asd",
-      "Summary": "asd",
-      "id": "6HmjYjY"
-    },
-    {
-      "TechListId": "2",
-      "Quesiontitle": "zxc",
-      "Summary": "zxcxzcx",
-      "id": "kwjep5e"
-    },
-    {
-      "TechListId": "1",
-      "Quesiontitle": "ads",
-      "Summary": "asd",
-      "id": "WPRmOXp"
-    },
-    {
-      "TechListId": "1",
-      "Quesiontitle": "ads",
-      "Summary": "asd",
-      "id": "4OXLdXX"
+      "Quesiontitle": "asdasd",
+      "Summary": "jj",
+      "id": "MbhvxYy"
     }
   ],
   "Usercomment": [
@@ -148,6 +82,7 @@
       "username": "Sachin",
       "timestamp": "12/05/2019",
       "comment": "check Stack over flow"
+
     },
     {
       "id": "21",
@@ -155,6 +90,7 @@
       "username": "asds",
       "timestamp": "12/05/2019",
       "comment": "check Stack over flow"
+ 
     },
     {
       "id": "22",
@@ -162,6 +98,7 @@
       "username": "asd",
       "timestamp": "12/05/2019",
       "comment": "check Stack over flow"
+ 
     },
     {
       "id": "23",
@@ -169,6 +106,7 @@
       "username": "asda",
       "timestamp": "12/05/2019",
       "comment": "check Stack over flow"
+ 
     },
     {
       "id": "24",
@@ -176,6 +114,7 @@
       "username": "Sachin",
       "timestamp": "12/05/2019",
       "comment": "check Stack over flow"
+ 
     },
     {
       "id": "25",
@@ -183,6 +122,7 @@
       "username": "cccc",
       "timestamp": "12/05/2019",
       "comment": "check Stack over flow"
+ 
     },
     {
       "id": "26",
@@ -190,6 +130,7 @@
       "username": "lll",
       "timestamp": "12/05/2019",
       "comment": "check Stack over flow"
+ 
     },
     {
       "id": "26",
@@ -197,6 +138,7 @@
       "username": "lll",
       "timestamp": "12/05/2019",
       "comment": "check Stack over flow"
+ 
     },
     {
       "QuestionlistId": "16",
@@ -204,122 +146,8 @@
       "timestamp": "12/05/2019",
       "comment": "check Stack over flow",
       "id": "jG3tpYE"
-    },
-    {
-      "QuestionlistId": "16",
-      "username": "Banta",
-      "timestamp": "6/19/2019, 12:12:20 AM",
-      "comment": "bantu",
-      "id": "xd-NxCG"
-    },
-    {
-      "QuestionlistId": "16",
-      "username": "aksdjskadjk",
-      "timestamp": "6/19/2019, 12:13:18 AM",
-      "comment": "jasdas",
-      "id": "IbXMFDm"
-    },
-    {
-      "QuestionlistId": "16",
-      "username": "aksdjskadjk",
-      "timestamp": "6/19/2019, 12:13:18 AM",
-      "comment": "jasdas",
-      "id": "pPnWCyq"
-    },
-    {
-      "QuestionlistId": "16",
-      "username": "aksdjskadjk",
-      "timestamp": "6/19/2019, 12:13:18 AM",
-      "comment": "jasdas",
-      "id": "31B29qD"
-    },
-    {
-      "QuestionlistId": "13",
-      "username": "asdsad",
-      "timestamp": "6/19/2019, 12:14:14 AM",
-      "comment": "nasdsad",
-      "id": "AMPNTSB"
-    },
-    {
-      "QuestionlistId": "10",
-      "username": "Juan",
-      "timestamp": "6/19/2019, 12:14:37 AM",
-      "comment": "Working ?",
-      "id": "ztJu-qu"
-    },
-    {
-      "QuestionlistId": "10",
-      "username": "sdsa",
-      "timestamp": "6/19/2019, 12:18:26 AM",
-      "comment": "sadasd",
-      "id": "KtuGEnU"
-    },
-    {
-      "QuestionlistId": "13",
-      "username": "as",
-      "timestamp": "6/23/2019, 2:41:10 PM",
-      "comment": "asd",
-      "id": "DTPpzLT"
-    },
-    {
-      "QuestionlistId": "13",
-      "username": "as",
-      "timestamp": "6/23/2019, 2:41:10 PM",
-      "comment": "asd",
-      "id": "mv-0jWp"
-    },
-    {
-      "QuestionlistId": "10",
-      "username": "asd",
-      "timestamp": "7/23/2019, 2:40:13 PM",
-      "comment": "asd",
-      "id": "Yj9gR7x"
-    },
-    {
-      "QuestionlistId": "10",
-      "username": "Image Test",
-      "timestamp": "7/23/2019, 2:43:25 PM",
-      "comment": "Test",
-      "Attachment": "",
-      "id": "P2OaABX"
-    },
-    {
-      "QuestionlistId": "10",
-      "username": "test ",
-      "timestamp": "7/23/2019, 2:49:37 PM",
-      "comment": "asdsad",
-      "Attachment": "",
-      "id": "1wwPu1W"
-    },
-    {
-      "QuestionlistId": "14",
-      "username": "asd",
-      "timestamp": "8/26/2019, 4:01:27 PM",
-      "comment": "asd",
-      "Attachment": "",
-      "id": "XerZT7-"
-    },
-    {
-      "QuestionlistId": "kwjep5e",
-      "username": "zxczzxx",
-      "timestamp": "9/20/2019, 3:54:31 PM",
-      "comment": "zxcxz",
-      "Attachment": "data:text/plain;base64,ICBzZXNhSWQ6ICJTRVNBNTQ2MjMiLA0KICByZXBvcnRLZXk6ICI1NDMyNSIsDQogIHBvc3RpbmdTdGF0dXM6ICJQb3N0aW5nIEVycm9yIiwNCiAgc2RoQ29tcGFueUNvZGU6ICJISzA0IiwNCiAgdGFyZ2V0RVJQOiAiVHJwIiwNCiAgc3VibWl0RGF0ZTogIjIwMTktMDgtMDgiLA0KICBwb3N0aW5nRGF0ZTogIjIwMTktMDgtMTMiDQo=",
-      "id": "ZfoeVfs"
-    },
-    {
-      "QuestionlistId": "10",
-      "username": "",
-      "timestamp": "9/27/2019, 10:10:54 PM",
-      "comment": "",
-      "id": "MEFl2Br"
-    },
-    {
-      "QuestionlistId": "10",
-      "username": "asd",
-      "timestamp": "9/27/2019, 10:10:54 PM",
-      "comment": "asd",
-      "id": "wnv8sTe"
+ 
     }
+
   ]
 }
