@@ -6,7 +6,7 @@ export default class RouteData extends React.Component{
         TechList : []
     }
     componentDidMount(){
-        fetch(`http://localhost:3000/TechList`)
+        fetch(`https://my-json-server.typicode.com/SachiSagar5/SampleStackOverFlow/TechList`)
         .then(response => response.json())
         .then(json => this.setState({
             TechList : json
