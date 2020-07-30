@@ -1,0 +1,45 @@
+1. useState
+// import useState form React,{useState}
+
+const [count,setCount] = useState(0)
+
+onClick(setCount(count + 1))
+
+2. useEffect---
+
+useEffet(()=>{
+
+ call function or fect API
+
+retur()=>{
+	// component will unmount
+}
+},[])
+
+3. useContext --
+
+export const userName = React.createContext()
+
+<userName.Provider value={'some value to direct childe and wrap child component'}>
+<childComponent/>
+</userName.Provider>
+
+// Ind child component
+import userName from '..App'
+
+const name = useContext(userName)
+
+{name}
+
+
+4. useReducer - 
+
+useReducer is a hook that is used for state management
+it is an alternative to useState
+
+5. useCallback
+use when complex function to catched and prevent unnessery re-render of funcion.
+
+6. useMemo()
+
+use when complex function result has to catched.(useMemo and useCallback both are for operformance optimisation)

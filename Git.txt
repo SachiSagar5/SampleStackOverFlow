@@ -1,0 +1,12 @@
+Commit Code: Git Tips
+Git is a little different than CVS, every person has a copy of the repository on their local machine. So you can commit to it as much as you like. No build will be triggered.
+
+Most of the built in aliases for git will help because they are similar to CVS.
+
+git pull This will pull a fresh copy of the repository.
+git commit This will commit changes to your local repository (not the server).
+git add This is a little different, you use git add to add a file to the commit index. It's not just for new files.
+git push This is what moves your local repository to the server you checked out from.
+git status Shows you the status of your repository.
+git diff Gives you a diff of the file.
+git rm This lets you remove files and directories.
