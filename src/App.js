@@ -11,6 +11,10 @@ import RefExample from '../src/components/useRefExamples/useRefExample'
 
 import CustomeHookExampleOne  from '../src/components/CustomHooks/ComponentOne'
 
+import ErrorBoundry from '../src/components/ErrorBoundry/ErrorBoundryHoc'
+
+import CountertOne from '../src/components/HOC_Components/CounterOne'
+
 export const userName = React.createContext()
 
 class App extends React.Component {
@@ -29,6 +33,7 @@ class App extends React.Component {
 render(){
   return (
     <div className="App">
+      <ErrorBoundry>
       {/* <Counter/>
       <HookObject/>
       <HookArray/> */}
@@ -52,6 +57,11 @@ render(){
       {/* <UseCallbackexample/> */}
       {/* <RefExample/> */}
       <CustomeHookExampleOne/>
+      </ErrorBoundry>
+      <div>
+          <h2>HOC Example</h2>
+        <CountertOne/>
+      </div>
     </div>
   );
 }
